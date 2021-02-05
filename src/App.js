@@ -21,7 +21,7 @@ const App =()=>{
         <Route exact component={NotFoundPage}/>
       </Switch>
       {/*Footer*/}
-      <Footer college="วิทยาลัยเทคนิคตราด" address="480 หมู่.9 ถนนสุขุมวิท ต.วังกระเเจะ อ.เมือง จ.ตราด" name="รุ่งโรจน์ ผลาเกษ" />
+      <Footer college="วิทยาลัยเทคนิคตราด" address="480 หมู่.9 ถนนสุขุมวิท ต.วังกระเเจะ อ.เมือง จ.ตราด" name="พุฒศิริ สุขสถิตย์" />
       </div>
     </Router>
   );
